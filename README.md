@@ -1,5 +1,5 @@
 Project Description
-Dataset Overview
+Dataset Overview (https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
 The dataset used in this Power BI project is from Kaggle, titled "DataCo Smart Supply Chain for Big Data Analysis." It includes comprehensive information on various aspects of supply chain management such as sales, customer details, product categories, shipping details, and more. This dataset is crucial for analyzing and optimizing supply chain processes, enabling data-driven decision-making for inventory management, sales performance, delivery efficiency, and customer insights.
 Importance of the Dataset
 This dataset is valuable as it provides a holistic view of the supply chain, including sales data, delivery performance, customer demographics, and inventory details. By leveraging this dataset, businesses can improve their operational efficiency, forecast demand, manage inventory effectively, and enhance customer satisfaction.
